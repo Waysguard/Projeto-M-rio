@@ -54,7 +54,6 @@ body {
 }
 
 .container .botao-trailer {
-    background-color: #ff0021;
     color: #ffffff;
     padding: 15px;
     font-size: 18px;
@@ -115,7 +114,6 @@ body {
 }
 
 .fechar-modal {
-    background-color: #ffffff;
     color: #f03a17;
     font-weight: bold;
     font-size: 20px;
